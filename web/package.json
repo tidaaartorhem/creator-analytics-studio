@@ -1,0 +1,24 @@
+{
+  "name": "creator-analytics-studio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc && node scripts/prepare-public.cjs && vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
+    "vitest": "^2.1.9"
+  }
+}
