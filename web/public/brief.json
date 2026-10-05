@@ -1,0 +1,341 @@
+{
+  "computedAt": "2026-10-05T13:15:44Z",
+  "healthScore": 80,
+  "healthRules": [
+    {
+      "rule": "pillar-focus",
+      "check": "Top-2 pillars by median views/day hold >= 60% of uploads",
+      "status": "fail",
+      "detail": "top-2 pillars (AI Tools, Analytics Deep Dives) hold 34.2% of uploads"
+    },
+    {
+      "rule": "hit-rate",
+      "check": "At least 12% of videos earn >= 1.5x the channel median views/day",
+      "status": "pass",
+      "detail": "39.5% of videos earn >= 1.5x the median"
+    },
+    {
+      "rule": "trough-rate",
+      "check": "Troughs (<= 0.5x median views/day) stay under 20% of the catalog",
+      "status": "pass",
+      "detail": "13.2% of videos are troughs"
+    },
+    {
+      "rule": "cadence-consistency",
+      "check": "Median gap between uploads is 14 days or less",
+      "status": "pass",
+      "detail": "median gap between uploads is 12.6 days"
+    },
+    {
+      "rule": "engagement",
+      "check": "Median engagement rate (likes+comments)/views is at least 3%",
+      "status": "pass",
+      "detail": "median engagement rate is 5.42%"
+    },
+    {
+      "rule": "refresh-debt",
+      "check": "Refresh candidates (decayed evergreens) stay under 5% of the catalog",
+      "status": "pass",
+      "detail": "2.6% of videos are refresh candidates"
+    }
+  ],
+  "pillars": [
+    {
+      "id": "ai_tools",
+      "label": "AI Tools",
+      "count": 16,
+      "medianViewsPerDay": 72.1,
+      "medianEngagementRate": 0.0528,
+      "shareOfCatalogPct": 21.1
+    },
+    {
+      "id": "analytics",
+      "label": "Analytics Deep Dives",
+      "count": 10,
+      "medianViewsPerDay": 52.5,
+      "medianEngagementRate": 0.0585,
+      "shareOfCatalogPct": 13.2
+    },
+    {
+      "id": "tutorials",
+      "label": "Tutorials",
+      "count": 28,
+      "medianViewsPerDay": 37.1,
+      "medianEngagementRate": 0.0552,
+      "shareOfCatalogPct": 36.8
+    },
+    {
+      "id": "vlogs",
+      "label": "Vlogs",
+      "count": 8,
+      "medianViewsPerDay": 18.5,
+      "medianEngagementRate": 0.0607,
+      "shareOfCatalogPct": 10.5
+    },
+    {
+      "id": "gear",
+      "label": "Gear Reviews",
+      "count": 14,
+      "medianViewsPerDay": 17.7,
+      "medianEngagementRate": 0.0493,
+      "shareOfCatalogPct": 18.4
+    }
+  ],
+  "doubleDown": [
+    {
+      "pillar": "AI Tools",
+      "medianViewsPerDay": 72.1,
+      "engagement": 0.0528,
+      "count": 16,
+      "why": "AI Tools leads the channel at 72.1/day median views with 5.3% median engagement across 16 videos \u2014 publish more of what works here."
+    },
+    {
+      "pillar": "Analytics Deep Dives",
+      "medianViewsPerDay": 52.5,
+      "engagement": 0.0585,
+      "count": 10,
+      "why": "Analytics Deep Dives leads the channel at 52.5/day median views with 5.9% median engagement across 10 videos \u2014 publish more of what works here."
+    }
+  ],
+  "refresh": [
+    {
+      "videoId": "vid014",
+      "title": "How the YouTube Algorithm Actually Works (2024)",
+      "decayScore": 0.985,
+      "lifetimeViews": 1180000,
+      "why": "1.2M lifetime views but trailing velocity is 2% of its modeled peak \u2014 refresh the title and thumbnail, then run YouTube's Test & Compare on the thumbnail"
+    },
+    {
+      "videoId": "vid003",
+      "title": "How to Color Grade Cinematic Footage in Premiere Pro",
+      "decayScore": 0.981,
+      "lifetimeViews": 1050000,
+      "why": "1.1M lifetime views but trailing velocity is 2% of its modeled peak \u2014 refresh the title and thumbnail, then run YouTube's Test & Compare on the thumbnail"
+    }
+  ],
+  "cadence": {
+    "bestDow": [
+      "Wednesday",
+      "Tuesday"
+    ],
+    "bestHour": 15,
+    "medianGapDays": 12.6,
+    "guidance": "Uploads on Wednesday (66.8/day), Tuesday (39.1/day) earn the highest median views/day of any weekday with meaningful volume. The median gap between uploads is 12.6 days, a steady rhythm \u2014 keep it. Posting around 15:00 UTC lines up with the strongest hour-of-day performance.",
+    "dowStats": [
+      {
+        "dow": 0,
+        "label": "Monday",
+        "count": 11,
+        "medianViewsPerDay": 34.6
+      },
+      {
+        "dow": 1,
+        "label": "Tuesday",
+        "count": 10,
+        "medianViewsPerDay": 39.1
+      },
+      {
+        "dow": 2,
+        "label": "Wednesday",
+        "count": 7,
+        "medianViewsPerDay": 66.8
+      },
+      {
+        "dow": 3,
+        "label": "Thursday",
+        "count": 18,
+        "medianViewsPerDay": 22.6
+      },
+      {
+        "dow": 4,
+        "label": "Friday",
+        "count": 7,
+        "medianViewsPerDay": 28.9
+      },
+      {
+        "dow": 5,
+        "label": "Saturday",
+        "count": 13,
+        "medianViewsPerDay": 24.5
+      },
+      {
+        "dow": 6,
+        "label": "Sunday",
+        "count": 10,
+        "medianViewsPerDay": 23.2
+      }
+    ],
+    "hourStats": [
+      {
+        "hour": 0,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 1,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 2,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 3,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 4,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 5,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 6,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 7,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 8,
+        "count": 5,
+        "medianViewsPerDay": 33.7
+      },
+      {
+        "hour": 9,
+        "count": 8,
+        "medianViewsPerDay": 27.9
+      },
+      {
+        "hour": 10,
+        "count": 7,
+        "medianViewsPerDay": 47.8
+      },
+      {
+        "hour": 11,
+        "count": 6,
+        "medianViewsPerDay": 23.8
+      },
+      {
+        "hour": 12,
+        "count": 1,
+        "medianViewsPerDay": 28.9
+      },
+      {
+        "hour": 13,
+        "count": 2,
+        "medianViewsPerDay": 62.3
+      },
+      {
+        "hour": 14,
+        "count": 4,
+        "medianViewsPerDay": 26.8
+      },
+      {
+        "hour": 15,
+        "count": 5,
+        "medianViewsPerDay": 76.9
+      },
+      {
+        "hour": 16,
+        "count": 14,
+        "medianViewsPerDay": 41.0
+      },
+      {
+        "hour": 17,
+        "count": 4,
+        "medianViewsPerDay": 25.6
+      },
+      {
+        "hour": 18,
+        "count": 10,
+        "medianViewsPerDay": 20.7
+      },
+      {
+        "hour": 19,
+        "count": 6,
+        "medianViewsPerDay": 55.5
+      },
+      {
+        "hour": 20,
+        "count": 4,
+        "medianViewsPerDay": 24.2
+      },
+      {
+        "hour": 21,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 22,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      },
+      {
+        "hour": 23,
+        "count": 0,
+        "medianViewsPerDay": 0.0
+      }
+    ]
+  },
+  "checklist": [
+    {
+      "title": "Double down on AI Tools",
+      "detail": "AI Tools leads the channel at 72.1/day median views with 5.3% median engagement across 16 videos \u2014 publish more of what works here.",
+      "kind": "double-down"
+    },
+    {
+      "title": "Double down on Analytics Deep Dives",
+      "detail": "Analytics Deep Dives leads the channel at 52.5/day median views with 5.9% median engagement across 10 videos \u2014 publish more of what works here.",
+      "kind": "double-down"
+    },
+    {
+      "title": "Refresh 'How the YouTube Algorithm Actually Works (2024)'",
+      "detail": "1.2M lifetime views but trailing velocity is 2% of its modeled peak \u2014 refresh the title and thumbnail, then run YouTube's Test & Compare on the thumbnail",
+      "kind": "refresh"
+    },
+    {
+      "title": "Refresh 'How to Color Grade Cinematic Footage in Premiere Pro'",
+      "detail": "1.1M lifetime views but trailing velocity is 2% of its modeled peak \u2014 refresh the title and thumbnail, then run YouTube's Test & Compare on the thumbnail",
+      "kind": "refresh"
+    },
+    {
+      "title": "Publish on Wednesday, Tuesday",
+      "detail": "Uploads on Wednesday (66.8/day), Tuesday (39.1/day) earn the highest median views/day of any weekday with meaningful volume. The median gap between uploads is 12.6 days, a steady rhythm \u2014 keep it. Posting around 15:00 UTC lines up with the strongest hour-of-day performance.",
+      "kind": "cadence"
+    },
+    {
+      "title": "Address: pillar-focus (fail)",
+      "detail": "Top-2 pillars by median views/day hold >= 60% of uploads. top-2 pillars (AI Tools, Analytics Deep Dives) hold 34.2% of uploads.",
+      "kind": "score"
+    }
+  ],
+  "topHit": {
+    "videoId": "vid056",
+    "title": "AI Voiceovers Tested: 5 Tools Ranked for Creators",
+    "ratio": 193.66
+  },
+  "worstTrough": {
+    "videoId": "vid004",
+    "title": "I Let AI Edit My Video: The Honest Result",
+    "ratio": 0.23
+  },
+  "headlineStats": {
+    "videoCount": 76,
+    "totalViews": 9172419,
+    "medianViewsPerDay": 29.4,
+    "hitCount": 23,
+    "troughCount": 10,
+    "refreshCount": 2
+  }
+}
