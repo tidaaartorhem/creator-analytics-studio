@@ -1,0 +1,774 @@
+{
+  "_note": "SAMPLE DATA — fictional channel bundled so the studio runs without an API key; bring your own API key + channel id for real data.",
+  "channel": {
+    "id": "UCsampl3ch4nn3l0000",
+    "title": "Frame & Focus",
+    "description": "Frame & Focus is a fictional creator channel about video editing, AI tools for creators, camera gear, and YouTube analytics. Every video, view count, and velocity in this fixture is invented.",
+    "subscriberCount": 148500,
+    "videoCount": 76,
+    "viewCount": 9210000,
+    "publishedAt": "2019-06-11T00:00:00Z"
+  },
+  "videos": [
+    {
+      "id": "vid001",
+      "title": "Midjourney for Thumbnails: A Creator's Guide",
+      "publishedAt": "2024-03-11T19:59:00Z",
+      "durationS": 856,
+      "views": 13722,
+      "likes": 501,
+      "comments": 76,
+      "velocity": 15.0
+    },
+    {
+      "id": "vid002",
+      "title": "Sony ZV-E10 Review: 2 Years Later",
+      "publishedAt": "2024-03-24T09:38:00Z",
+      "durationS": 857,
+      "views": 9138,
+      "likes": 289,
+      "comments": 99,
+      "velocity": 12.4
+    },
+    {
+      "id": "vid003",
+      "title": "How to Color Grade Cinematic Footage in Premiere Pro",
+      "publishedAt": "2024-04-04T16:46:00Z",
+      "durationS": 682,
+      "views": 1050000,
+      "likes": 42908,
+      "comments": 14611,
+      "velocity": 87.5
+    },
+    {
+      "id": "vid004",
+      "title": "I Let AI Edit My Video: The Honest Result",
+      "publishedAt": "2024-04-13T15:24:00Z",
+      "durationS": 600,
+      "views": 6245,
+      "likes": 298,
+      "comments": 73,
+      "velocity": 6.5
+    },
+    {
+      "id": "vid005",
+      "title": "The Best Budget Mic for Creators in 2025",
+      "publishedAt": "2024-04-25T18:44:00Z",
+      "durationS": 917,
+      "views": 13333,
+      "likes": 498,
+      "comments": 145,
+      "velocity": 11.2
+    },
+    {
+      "id": "vid006",
+      "title": "I Tested 7 AI Thumbnail Tools (One Broke My Brain)",
+      "publishedAt": "2024-05-11T18:20:00Z",
+      "durationS": 613,
+      "views": 2400000,
+      "likes": 76964,
+      "comments": 27541,
+      "velocity": 1780.8
+    },
+    {
+      "id": "vid007",
+      "title": "I Switched to This Camera Setup (Full Tour)",
+      "publishedAt": "2024-05-26T20:03:00Z",
+      "durationS": 943,
+      "views": 9147,
+      "likes": 339,
+      "comments": 81,
+      "velocity": 11.6
+    },
+    {
+      "id": "vid008",
+      "title": "The Complete Beginner's Guide to Video Editing",
+      "publishedAt": "2024-06-01T08:51:00Z",
+      "durationS": 674,
+      "views": 20982,
+      "likes": 828,
+      "comments": 262,
+      "velocity": 17.3
+    },
+    {
+      "id": "vid009",
+      "title": "AI Script to Video: Testing 4 Generators",
+      "publishedAt": "2024-06-14T12:04:00Z",
+      "durationS": 517,
+      "views": 24354,
+      "likes": 1460,
+      "comments": 364,
+      "velocity": 29.6
+    },
+    {
+      "id": "vid010",
+      "title": "ChatGPT vs Claude for Content Ideas",
+      "publishedAt": "2024-06-25T17:56:00Z",
+      "durationS": 515,
+      "views": 20576,
+      "likes": 780,
+      "comments": 294,
+      "velocity": 30.4
+    },
+    {
+      "id": "vid011",
+      "title": "The AI Upscaler Test: Can It Save Old Footage?",
+      "publishedAt": "2024-07-13T11:41:00Z",
+      "durationS": 758,
+      "views": 16108,
+      "likes": 620,
+      "comments": 151,
+      "velocity": 22.2
+    },
+    {
+      "id": "vid012",
+      "title": "Lighting Review: One Light vs Three Lights",
+      "publishedAt": "2024-07-23T18:29:00Z",
+      "durationS": 753,
+      "views": 12666,
+      "likes": 382,
+      "comments": 166,
+      "velocity": 19.9
+    },
+    {
+      "id": "vid013",
+      "title": "I Analyzed 100 Thumbnails: Here's What Wins CTR",
+      "publishedAt": "2024-08-01T10:15:00Z",
+      "durationS": 818,
+      "views": 15394,
+      "likes": 895,
+      "comments": 97,
+      "velocity": 23.9
+    },
+    {
+      "id": "vid014",
+      "title": "How the YouTube Algorithm Actually Works (2024)",
+      "publishedAt": "2024-08-19T16:16:00Z",
+      "durationS": 1319,
+      "views": 1180000,
+      "likes": 51674,
+      "comments": 7705,
+      "velocity": 98.3
+    },
+    {
+      "id": "vid015",
+      "title": "Budget Lens Showdown: 35mm vs 50mm",
+      "publishedAt": "2024-08-31T14:57:00Z",
+      "durationS": 735,
+      "views": 9617,
+      "likes": 347,
+      "comments": 109,
+      "velocity": 12.6
+    },
+    {
+      "id": "vid016",
+      "title": "Step-by-Step: My Full Editing Workflow From Raw to Upload",
+      "publishedAt": "2024-09-11T13:14:00Z",
+      "durationS": 694,
+      "views": 14228,
+      "likes": 813,
+      "comments": 191,
+      "velocity": 20.4
+    },
+    {
+      "id": "vid017",
+      "title": "Case Study: How One Video 10x'd My Channel Growth",
+      "publishedAt": "2024-09-28T10:32:00Z",
+      "durationS": 833,
+      "views": 39176,
+      "likes": 1500,
+      "comments": 197,
+      "velocity": 57.5
+    },
+    {
+      "id": "vid018",
+      "title": "How to Cut Talking-Head Videos Without Jump Cuts",
+      "publishedAt": "2024-10-05T20:03:00Z",
+      "durationS": 1037,
+      "views": 14583,
+      "likes": 508,
+      "comments": 137,
+      "velocity": 20.7
+    },
+    {
+      "id": "vid019",
+      "title": "The Data Behind My Best Month Ever",
+      "publishedAt": "2024-10-21T10:40:00Z",
+      "durationS": 852,
+      "views": 15665,
+      "likes": 505,
+      "comments": 216,
+      "velocity": 22.5
+    },
+    {
+      "id": "vid020",
+      "title": "Premiere Pro Keyboard Shortcuts That Save Me Hours",
+      "publishedAt": "2024-10-26T18:27:00Z",
+      "durationS": 730,
+      "views": 18098,
+      "likes": 859,
+      "comments": 117,
+      "velocity": 18.5
+    },
+    {
+      "id": "vid021",
+      "title": "Why Your CTR Is Low: An Analytics Deep Dive",
+      "publishedAt": "2024-11-12T14:24:00Z",
+      "durationS": 740,
+      "views": 23948,
+      "likes": 1364,
+      "comments": 310,
+      "velocity": 43.0
+    },
+    {
+      "id": "vid022",
+      "title": "How to Sync Audio and Video Perfectly Every Time",
+      "publishedAt": "2024-11-24T15:33:00Z",
+      "durationS": 962,
+      "views": 12883,
+      "likes": 650,
+      "comments": 150,
+      "velocity": 22.2
+    },
+    {
+      "id": "vid023",
+      "title": "Beginner Tutorial: Your First Edit in DaVinci Resolve",
+      "publishedAt": "2024-12-03T16:55:00Z",
+      "durationS": 842,
+      "views": 19316,
+      "likes": 1143,
+      "comments": 241,
+      "velocity": 35.1
+    },
+    {
+      "id": "vid024",
+      "title": "My Entire Desk Setup Tour 2025",
+      "publishedAt": "2024-12-22T18:46:00Z",
+      "durationS": 977,
+      "views": 6900,
+      "likes": 389,
+      "comments": 36,
+      "velocity": 13.3
+    },
+    {
+      "id": "vid025",
+      "title": "Microphone Review: Dynamic vs Condenser for Voice",
+      "publishedAt": "2024-12-26T16:48:00Z",
+      "durationS": 1015,
+      "views": 10745,
+      "likes": 580,
+      "comments": 146,
+      "velocity": 14.1
+    },
+    {
+      "id": "vid026",
+      "title": "A Day in the Life of a Full-Time Creator",
+      "publishedAt": "2025-01-09T18:21:00Z",
+      "durationS": 946,
+      "views": 4608,
+      "likes": 247,
+      "comments": 28,
+      "velocity": 5.3
+    },
+    {
+      "id": "vid027",
+      "title": "Is This $200 Tripod Worth It? Honest Review",
+      "publishedAt": "2025-01-20T14:10:00Z",
+      "durationS": 835,
+      "views": 11711,
+      "likes": 429,
+      "comments": 154,
+      "velocity": 17.1
+    },
+    {
+      "id": "vid028",
+      "title": "Audience Retention: The 30-Second Rule (Data)",
+      "publishedAt": "2025-02-05T19:56:00Z",
+      "durationS": 724,
+      "views": 38887,
+      "likes": 2094,
+      "comments": 282,
+      "velocity": 70.3
+    },
+    {
+      "id": "vid029",
+      "title": "ChatGPT for Video Scripts: My Exact Workflow",
+      "publishedAt": "2025-02-20T16:48:00Z",
+      "durationS": 875,
+      "views": 1900000,
+      "likes": 57721,
+      "comments": 17481,
+      "velocity": 2089.7
+    },
+    {
+      "id": "vid030",
+      "title": "Camera Settings I Use for Every Shoot",
+      "publishedAt": "2025-02-27T09:55:00Z",
+      "durationS": 874,
+      "views": 12346,
+      "likes": 518,
+      "comments": 182,
+      "velocity": 19.0
+    },
+    {
+      "id": "vid031",
+      "title": "How to Add Subtitles That Actually Get Watched",
+      "publishedAt": "2025-03-15T18:32:00Z",
+      "durationS": 782,
+      "views": 6904,
+      "likes": 231,
+      "comments": 101,
+      "velocity": 12.7
+    },
+    {
+      "id": "vid032",
+      "title": "The 5-Second Rule: How I Pace Every Edit",
+      "publishedAt": "2025-03-28T10:23:00Z",
+      "durationS": 953,
+      "views": 14698,
+      "likes": 457,
+      "comments": 161,
+      "velocity": 30.1
+    },
+    {
+      "id": "vid033",
+      "title": "How to Edit B-Roll That Doesn't Feel Like Filler",
+      "publishedAt": "2025-04-10T16:49:00Z",
+      "durationS": 718,
+      "views": 16278,
+      "likes": 701,
+      "comments": 241,
+      "velocity": 28.0
+    },
+    {
+      "id": "vid034",
+      "title": "The Cheapest Pro-Looking Lighting Setup",
+      "publishedAt": "2025-04-24T08:38:00Z",
+      "durationS": 823,
+      "views": 13446,
+      "likes": 480,
+      "comments": 73,
+      "velocity": 17.8
+    },
+    {
+      "id": "vid035",
+      "title": "Tutorial: Multi-Cam Editing in Under 10 Minutes",
+      "publishedAt": "2025-05-01T08:07:00Z",
+      "durationS": 801,
+      "views": 23643,
+      "likes": 1196,
+      "comments": 340,
+      "velocity": 41.6
+    },
+    {
+      "id": "vid036",
+      "title": "I Tracked Every Metric for 90 Days: Results",
+      "publishedAt": "2025-05-19T20:19:00Z",
+      "durationS": 1338,
+      "views": 14292,
+      "likes": 835,
+      "comments": 203,
+      "velocity": 25.2
+    },
+    {
+      "id": "vid037",
+      "title": "How to Master the Timeline: Nesting, Markers, and Bins",
+      "publishedAt": "2025-05-24T11:56:00Z",
+      "durationS": 916,
+      "views": 10083,
+      "likes": 520,
+      "comments": 80,
+      "velocity": 22.2
+    },
+    {
+      "id": "vid038",
+      "title": "Color Grading Tutorial: From Flat LOG to Cinematic",
+      "publishedAt": "2025-06-09T09:05:00Z",
+      "durationS": 730,
+      "views": 16688,
+      "likes": 702,
+      "comments": 132,
+      "velocity": 28.2
+    },
+    {
+      "id": "vid039",
+      "title": "How to Edit a YouTube Video in 90 Minutes",
+      "publishedAt": "2025-06-23T09:48:00Z",
+      "durationS": 1182,
+      "views": 18423,
+      "likes": 927,
+      "comments": 258,
+      "velocity": 34.6
+    },
+    {
+      "id": "vid040",
+      "title": "I Asked AI to Plan My Content Calendar",
+      "publishedAt": "2025-07-03T10:08:00Z",
+      "durationS": 587,
+      "views": 21954,
+      "likes": 1207,
+      "comments": 176,
+      "velocity": 45.8
+    },
+    {
+      "id": "vid041",
+      "title": "Behind the Scenes: Filming My Biggest Video Yet",
+      "publishedAt": "2025-07-17T16:10:00Z",
+      "durationS": 609,
+      "views": 7279,
+      "likes": 319,
+      "comments": 68,
+      "velocity": 16.5
+    },
+    {
+      "id": "vid042",
+      "title": "The Ultimate Guide to Sound Design for Creators",
+      "publishedAt": "2025-07-25T17:27:00Z",
+      "durationS": 943,
+      "views": 11560,
+      "likes": 575,
+      "comments": 90,
+      "velocity": 20.0
+    },
+    {
+      "id": "vid043",
+      "title": "I Tested 5 Webcams for Streaming",
+      "publishedAt": "2025-08-14T16:48:00Z",
+      "durationS": 701,
+      "views": 7848,
+      "likes": 393,
+      "comments": 56,
+      "velocity": 14.9
+    },
+    {
+      "id": "vid044",
+      "title": "How to Fix Bad Audio in Post (3 Methods)",
+      "publishedAt": "2025-08-24T11:45:00Z",
+      "durationS": 674,
+      "views": 7514,
+      "likes": 280,
+      "comments": 73,
+      "velocity": 18.0
+    },
+    {
+      "id": "vid045",
+      "title": "Impressions vs Clicks: What the Algorithm Rewards",
+      "publishedAt": "2025-09-01T18:41:00Z",
+      "durationS": 1093,
+      "views": 41036,
+      "likes": 2006,
+      "comments": 284,
+      "velocity": 102.8
+    },
+    {
+      "id": "vid046",
+      "title": "Growth Case Study: 0 to 100K With Data",
+      "publishedAt": "2025-09-14T16:28:00Z",
+      "durationS": 809,
+      "views": 19994,
+      "likes": 688,
+      "comments": 237,
+      "velocity": 60.6
+    },
+    {
+      "id": "vid047",
+      "title": "Tutorial: Speed Ramping Without the Jerkiness",
+      "publishedAt": "2025-09-23T11:04:00Z",
+      "durationS": 1130,
+      "views": 13170,
+      "likes": 464,
+      "comments": 192,
+      "velocity": 34.2
+    },
+    {
+      "id": "vid048",
+      "title": "How to Structure a Tutorial People Finish",
+      "publishedAt": "2025-10-08T17:35:00Z",
+      "durationS": 1067,
+      "views": 24265,
+      "likes": 909,
+      "comments": 327,
+      "velocity": 52.4
+    },
+    {
+      "id": "vid049",
+      "title": "My Story: Quitting My Job for YouTube",
+      "publishedAt": "2025-10-19T11:00:00Z",
+      "durationS": 804,
+      "views": 9612,
+      "likes": 480,
+      "comments": 143,
+      "velocity": 24.4
+    },
+    {
+      "id": "vid050",
+      "title": "Auto-Captions Compared: 6 AI Tools Tested",
+      "publishedAt": "2025-10-30T18:03:00Z",
+      "durationS": 738,
+      "views": 18502,
+      "likes": 895,
+      "comments": 225,
+      "velocity": 52.2
+    },
+    {
+      "id": "vid051",
+      "title": "Vlog: Studio Build Day (It Got Messy)",
+      "publishedAt": "2025-11-13T08:55:00Z",
+      "durationS": 941,
+      "views": 10976,
+      "likes": 476,
+      "comments": 72,
+      "velocity": 33.2
+    },
+    {
+      "id": "vid052",
+      "title": "Watch Time Sources: Where Views Actually Come From",
+      "publishedAt": "2025-11-26T16:15:00Z",
+      "durationS": 983,
+      "views": 20493,
+      "likes": 1076,
+      "comments": 274,
+      "velocity": 76.2
+    },
+    {
+      "id": "vid053",
+      "title": "Editing Guide: Hooks, Payoffs, and Retention Edits",
+      "publishedAt": "2025-12-08T15:13:00Z",
+      "durationS": 1050,
+      "views": 23081,
+      "likes": 1027,
+      "comments": 170,
+      "velocity": 57.4
+    },
+    {
+      "id": "vid054",
+      "title": "AI B-Roll Generators: Worth It Yet?",
+      "publishedAt": "2025-12-23T19:59:00Z",
+      "durationS": 756,
+      "views": 13362,
+      "likes": 494,
+      "comments": 111,
+      "velocity": 35.1
+    },
+    {
+      "id": "vid055",
+      "title": "Lens Review: The Only 3 Lenses Creators Need",
+      "publishedAt": "2026-01-08T17:30:00Z",
+      "durationS": 961,
+      "views": 6471,
+      "likes": 239,
+      "comments": 77,
+      "velocity": 19.9
+    },
+    {
+      "id": "vid056",
+      "title": "AI Voiceovers Tested: 5 Tools Ranked for Creators",
+      "publishedAt": "2026-01-14T15:51:00Z",
+      "durationS": 692,
+      "views": 1500000,
+      "likes": 67059,
+      "comments": 14002,
+      "velocity": 3707.2
+    },
+    {
+      "id": "vid057",
+      "title": "My Travel Filming Setup: Camera, Mic, and Bag",
+      "publishedAt": "2026-01-27T09:06:00Z",
+      "durationS": 1084,
+      "views": 10883,
+      "likes": 453,
+      "comments": 138,
+      "velocity": 48.4
+    },
+    {
+      "id": "vid058",
+      "title": "How I Batch-Edit a Week of Content in One Day",
+      "publishedAt": "2026-02-11T13:27:00Z",
+      "durationS": 960,
+      "views": 24864,
+      "likes": 1029,
+      "comments": 125,
+      "velocity": 93.0
+    },
+    {
+      "id": "vid059",
+      "title": "Day in the Life: Shoot Day vs Edit Day",
+      "publishedAt": "2026-02-21T19:03:00Z",
+      "durationS": 714,
+      "views": 8389,
+      "likes": 466,
+      "comments": 121,
+      "velocity": 38.1
+    },
+    {
+      "id": "vid060",
+      "title": "Premiere Pro vs DaVinci Resolve: Editing Workflow Compared",
+      "publishedAt": "2026-03-08T18:06:00Z",
+      "durationS": 1099,
+      "views": 23895,
+      "likes": 1290,
+      "comments": 334,
+      "velocity": 94.6
+    },
+    {
+      "id": "vid061",
+      "title": "AI Thumbnails vs Human-Made: CTR Test",
+      "publishedAt": "2026-03-14T19:21:00Z",
+      "durationS": 822,
+      "views": 18281,
+      "likes": 814,
+      "comments": 162,
+      "velocity": 99.2
+    },
+    {
+      "id": "vid062",
+      "title": "My AI Research Workflow for Deep-Dive Videos",
+      "publishedAt": "2026-04-03T09:15:00Z",
+      "durationS": 545,
+      "views": 17248,
+      "likes": 892,
+      "comments": 231,
+      "velocity": 120.1
+    },
+    {
+      "id": "vid063",
+      "title": "Behind the Scenes of a Brand Deal Shoot",
+      "publishedAt": "2026-04-09T16:28:00Z",
+      "durationS": 788,
+      "views": 1560,
+      "likes": 81,
+      "comments": 22,
+      "velocity": 8.8
+    },
+    {
+      "id": "vid064",
+      "title": "How to Remove Background Noise: A Practical Guide",
+      "publishedAt": "2026-04-21T10:17:00Z",
+      "durationS": 1072,
+      "views": 8750,
+      "likes": 431,
+      "comments": 55,
+      "velocity": 42.4
+    },
+    {
+      "id": "vid065",
+      "title": "Vlog: I Attended My First Creator Conference",
+      "publishedAt": "2026-05-07T09:28:00Z",
+      "durationS": 667,
+      "views": 1753,
+      "likes": 84,
+      "comments": 24,
+      "velocity": 11.6
+    },
+    {
+      "id": "vid066",
+      "title": "A Realistic Day in My Life as a Creator",
+      "publishedAt": "2026-05-22T16:06:00Z",
+      "durationS": 715,
+      "views": 2786,
+      "likes": 123,
+      "comments": 26,
+      "velocity": 20.6
+    },
+    {
+      "id": "vid067",
+      "title": "Tutorial: Animated Captions in Premiere Pro",
+      "publishedAt": "2026-05-27T16:53:00Z",
+      "durationS": 653,
+      "views": 8683,
+      "likes": 383,
+      "comments": 108,
+      "velocity": 86.8
+    },
+    {
+      "id": "vid068",
+      "title": "Audio Interface Review: What Beginners Should Buy",
+      "publishedAt": "2026-06-08T09:59:00Z",
+      "durationS": 1090,
+      "views": 2500,
+      "likes": 129,
+      "comments": 19,
+      "velocity": 21.0
+    },
+    {
+      "id": "vid069",
+      "title": "How to Edit Vertical Video That Holds Attention",
+      "publishedAt": "2026-06-28T11:10:00Z",
+      "durationS": 620,
+      "views": 7016,
+      "likes": 410,
+      "comments": 49,
+      "velocity": 76.0
+    },
+    {
+      "id": "vid070",
+      "title": "The Beginner's Guide to Keyframes and Motion",
+      "publishedAt": "2026-07-07T15:13:00Z",
+      "durationS": 1177,
+      "views": 13816,
+      "likes": 466,
+      "comments": 161,
+      "velocity": 196.9
+    },
+    {
+      "id": "vid071",
+      "title": "How I Learned Editing in 30 Days (Full Plan)",
+      "publishedAt": "2026-07-24T08:10:00Z",
+      "durationS": 771,
+      "views": 21238,
+      "likes": 1082,
+      "comments": 269,
+      "velocity": 309.4
+    },
+    {
+      "id": "vid072",
+      "title": "Testing AI Dubbing for a Second Channel",
+      "publishedAt": "2026-07-31T14:16:00Z",
+      "durationS": 639,
+      "views": 27539,
+      "likes": 920,
+      "comments": 363,
+      "velocity": 324.1
+    },
+    {
+      "id": "vid073",
+      "title": "AI Clip Tools: Turning Long Videos Into Shorts",
+      "publishedAt": "2026-08-18T20:29:00Z",
+      "durationS": 672,
+      "views": 4841,
+      "likes": 280,
+      "comments": 52,
+      "velocity": 96.6
+    },
+    {
+      "id": "vid074",
+      "title": "I Built Thumbnails With 3 AI Image Tools",
+      "publishedAt": "2026-08-24T19:46:00Z",
+      "durationS": 801,
+      "views": 27429,
+      "likes": 986,
+      "comments": 299,
+      "velocity": 565.8
+    },
+    {
+      "id": "vid075",
+      "title": "Advanced Tutorial: Masking and Tracking Shots",
+      "publishedAt": "2026-09-12T16:42:00Z",
+      "durationS": 723,
+      "views": 45000,
+      "likes": 2499,
+      "comments": 598,
+      "velocity": 2250.0
+    },
+    {
+      "id": "vid076",
+      "title": "How to Use Adjustment Layers Like a Pro",
+      "publishedAt": "2026-09-20T10:12:00Z",
+      "durationS": 1038,
+      "views": 60000,
+      "likes": 1955,
+      "comments": 828,
+      "velocity": 4400.0
+    }
+  ]
+}
